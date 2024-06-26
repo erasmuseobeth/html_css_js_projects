@@ -1,0 +1,5 @@
+Use the software development life cycle (SDLC) framework to explain how to prepare a
+native/local dish from your state of origin.
+The assignment should contain – your name, registration number, state of origin, local
+government area of origin, and the native/local dish.
+Hint: The SDLC you were taught in software engineering and applications I (COEN409) 
