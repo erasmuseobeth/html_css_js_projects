@@ -1,0 +1,16 @@
+{
+    "project":[
+        "animated css radar scanner"
+    ],
+    "html":[
+        "effect"
+    ],
+    "css":[
+        "radar",
+        "scanner",
+        "radar animation",
+        "animations",
+        "transforms",
+        "psuedo-elements"
+    ]
+}
