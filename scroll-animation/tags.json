@@ -1,0 +1,27 @@
+{
+    "project":[
+        "animate on scroll",
+        "scroll animations",
+        "intersection observer"
+    ],
+    "html":[
+        "effect"
+    ],
+    "css":[
+        "@scroll-timeline",
+        "animate-on-scroll",
+        "animations",
+        "transforms",
+        "transitions",
+        "psuedo-elements"
+    ],
+    "js":["DOM Selection","arrow function","array method"],
+    "api":{
+        "web animation":[
+            "@scroll-timeline"
+        ],
+        "intersection observer":["IntersectionObserver"],
+        "DOM":["querySelectorAll"]
+},
+    "...other techs":[""]
+}
