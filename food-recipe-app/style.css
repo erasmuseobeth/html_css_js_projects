@@ -174,7 +174,8 @@ form ion-icon{
     width: 100%;
     display: grid;
     gap: 1.5625rem;
-    grid-template: auto / repeat(auto-fit, minmax(300px, 1fr)) ;
+/*     grid-template: auto / repeat(auto-fit, minmax(300px, 1fr)) ; */
+      grid-template-columns: repeat(4, 1fr);
 }
 .item{
     width: 100%;
